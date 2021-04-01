@@ -67,7 +67,7 @@ pip install psaw pillow opencv-python numpy imageio tifffile h5py
 
 * Download the source code:
   
-  * [Source](https://github.com/DexterHill0/Subreddimages/releases/tag/v1.0.0)
+  * [Source](https://github.com/DexterHill0/Subreddimages/archive/refs/heads/master.zip)
   
   ### Eclipse
 
