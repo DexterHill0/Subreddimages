@@ -16,7 +16,7 @@ Before use, some python modules may need installing;
 - [pillow](https://github.com/python-pillow/Pillow)
 - [opencv-python](https://github.com/skvark/opencv-python)
 - [numpy](https://github.com/numpy/numpy)
-- [imageio](https://github.com/imageio/imageio)
+- [imageio](https://github.com/imageio/imageio) + imageio-ffmpeg
 - [tifffile](https://github.com/cgohlke/tifffile/)
 - [h5py](https://pypi.org/project/h5py/)
 
@@ -25,7 +25,7 @@ Before use, some python modules may need installing;
 To install all the libraries run:
 
 ```
-pip install psaw pillow opencv-python numpy imageio tifffile h5py
+pip install psaw pillow opencv-python numpy imageio imageio-ffmpeg tifffile h5py
 ```
 
 ### Application
